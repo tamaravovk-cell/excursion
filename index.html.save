@@ -1,0 +1,21 @@
+<section>
+  <h2>Video Section</h2>
+  <video controls width="500">
+    <source src="resources/videos/video.mp4" type="video/mp4">
+  </video>
+</section>
+
+<section>
+  <h2>Supporting Text</h2>
+  <p>This is some supporting content for the page.</p>
+</section>
+
+<section>
+  <h2>Image Section</h2>
+  <p>
+    <img src="resources/images/landscape.jpg" width="500">
+  </p>
+  <p>
+    <img src="resources/images/cellphone-icon.png" width="100">
+  </p>
+</section>
